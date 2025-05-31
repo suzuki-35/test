@@ -7,3 +7,7 @@
 ## エピソード一覧
 
 - [第一話を読む](ep1.md)
+
+<img src="ep1_01.jpg" width="600">
+<img src="ep1_02.jpg" width="600">
+<img src="ep1_03.jpg" width="600">

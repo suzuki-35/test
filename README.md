@@ -1,5 +1,5 @@
 
-<img src="content://media/external/downloads/1000001075" alt="トップ絵" width="600">
+<img src="content://media/external/downloads/1000001079" alt="トップ絵" width="600">
 
 
 [第一話](episode1.md)
